@@ -1,0 +1,21 @@
+package com.syntax.project2.task05;
+
+
+class ChromeDriver implements RemoteWebDriver {
+        @Override
+        public void open() {
+        }
+
+        @Override
+        public void close() {
+        }
+
+        @Override
+        public String getTitle() {
+            return null;
+        }
+
+        @Override
+        public void navigate() {
+        }
+    }
